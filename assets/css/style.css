@@ -1096,11 +1096,11 @@ html, body {
 }
 
 .site-footer > .container {
-    padding-bottom: 170px;
+    padding-bottom: 70px;
 }
 
 .site-footer .list-unstyled li + li {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .contact-links li {
