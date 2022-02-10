@@ -1164,7 +1164,7 @@ html, body {
     width: 18px;
     text-align: center;
 }
-
+/* 
 a.twitter-bg {
     color: #55acee;
     border-color: #55acee; 
@@ -1199,7 +1199,7 @@ a.linkedin-bg {
 
 a.linkedin-bg:hover {
   background-color: #007bb5;
-}
+} */
 
 .copyright .text-right {
     padding: 4px 0;
